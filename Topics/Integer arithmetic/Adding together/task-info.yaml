@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    a = int(input())
+    b = int(input())
+
+    # calculate the sum below
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6884#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 23 Jan 2023 20:45:35 UTC"
+record: -1
