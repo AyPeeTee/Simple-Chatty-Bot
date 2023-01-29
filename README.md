@@ -1,5 +1,5 @@
 <h1 align="center"><strong><em>Simple Chatty Bot</strong></em></h1>
-<p align="center"><img src="demo/chatty-bot.png" alt="bot-logo" height=225 width=275></p>
+<p align="center"><img src="demo/chatty-bot.png" alt="bot-logo" height=225 width=375></p>
 
 # About the project
 <p>This is my first project that I made in Python.</p>
